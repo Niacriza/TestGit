@@ -1,3 +1,6 @@
 String nombre
 String edad
 String raza
+String color
+String raza
+
